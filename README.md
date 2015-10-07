@@ -10,6 +10,9 @@ it will fade to orange. So you can see that your time is running up.
 
 Blink(1) required: http://blink1.thingm.com
 
+## Requirements
+ node v0.12.7
+
 ## Installation
 
 Clone the repository, go to the folder and make an:
@@ -19,5 +22,5 @@ Clone the repository, go to the folder and make an:
 ## Usage
 
 	node index <presentationTime> <warningTime>
-	
+
 Enter presentation time and warning time in minutes.

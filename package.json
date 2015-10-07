@@ -2,5 +2,8 @@
   "name": "PresBlink(1)",
   "version": "0.1.0",
   "main": "index",
-  "description": "Presentation Timer with Blink(1)"
+  "description": "Presentation Timer with Blink(1)",
+  "dependencies": {
+    "node-blink1": "0.2.1"
+  }
 }
